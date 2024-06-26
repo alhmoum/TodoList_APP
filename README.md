@@ -1,4 +1,4 @@
-# Application Gestion de Tâches - Todo List - 
+# Application Gestion de Tâches - Todo List -  MVC
 
 ## Description
 L'application Gestion de Tâches (Todo List) est une application web qui permet a un utilisateur avec role d'admin de créerassigner, gérer et suivre les tâches quotidiennes. Elle propose une interface intuitive pour ajouter, modifier, supprimer et marquer les tâches comme complètes.
@@ -8,9 +8,12 @@ L'application Gestion de Tâches (Todo List) est une application web qui permet 
 Todo...
 
 ## Technologies Utilisées
+
 - PHP : Pour la logique côté serveur et la génération dynamique des pages.
 - MYSQL : Pour la gestion de la base de données SQL.
 - HTML/CSS : Pour la structure et le design des pages web.
+
+- La sctructure de l'application se base sur le modéle MVC ( Modéle Vue Controleur).
 
 
 ## Fonctionnalités Principales
